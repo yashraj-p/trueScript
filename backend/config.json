@@ -1,0 +1,9 @@
+{
+    "model_zip_path": "./ai_txt-detection_bertModel_epoch10EarlyFeatures.zip",
+    "model_extract_path": "./extracted_model",
+    "tokenizer_model": "bert-base-uncased",
+    "max_seq_length": 512,
+    "debug": true,
+    "host": "0.0.0.0",
+    "port": 5000
+  }
