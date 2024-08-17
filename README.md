@@ -1,1 +1,2 @@
 # trueScript
+AI Text Detection
